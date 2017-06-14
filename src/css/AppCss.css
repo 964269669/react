@@ -1,0 +1,31 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+body div{
+    height: 100%;
+    width: 100%;
+}
+
+.appContainer{
+    display: flex;
+    flex-direction: column;
+    background-color: #00b3ee;
+}
+
+.appHeader{
+    height:60px;
+    background-color: #1db34f;
+}
+
+.appContent{
+    flex: 1;
+    background-color: #f5f3b4;
+}
+.appFooter{
+    height:100px;
+    background-color: #3c3c3c;
+}

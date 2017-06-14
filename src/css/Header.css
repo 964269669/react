@@ -1,0 +1,15 @@
+.headerCss li{
+    color: royalblue;
+    float: left;
+    margin-left: 30px;
+    list-style: none;
+}
+
+.headerCss a{
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.headerCss a:hover{
+  color:papayawhip;
+}
